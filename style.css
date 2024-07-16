@@ -263,3 +263,8 @@ grid-template-columns: repeat(2,1fr);
 grid-gap: 2rem;
 align-items: center;
 }
+
+.picre1398{
+ width: 800px;
+ height: auto;
+}
